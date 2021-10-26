@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811864425928",
+    "project_id": "zcode-chat-app",
+    "storage_bucket": "zcode-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811864425928:android:cac7ddf46ac527e5d56cfd",
+        "android_client_info": {
+          "package_name": "mthushan.zcode_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811864425928-ei0ke4bvirf5p8i90hveosfjriugjhrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgzl1m8Sbqc_IgSjtwMASlajJT1lFwOas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811864425928-ei0ke4bvirf5p8i90hveosfjriugjhrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
